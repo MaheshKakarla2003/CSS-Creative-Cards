@@ -24,13 +24,11 @@ What it demonstrates
 - hover-triggered animations and color changes
 - simple responsive sizing using width/height
 
-
-
----
+--
 
 ## How to view
 - Open the HTML file for the demo you want to see in a browser (for example `flexbox/flexbox.html` or `cards/card-1/index.html`).
 
----
+
 
 
