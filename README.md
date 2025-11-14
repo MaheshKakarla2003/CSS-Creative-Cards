@@ -25,7 +25,7 @@ What it demonstrates
 - simple responsive sizing using width/height
 
 ---
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/977742f6-5ef8-4d58-ad82-807a0ca948eb" />
+<img width="400" height="500" alt="Screenshot 2025-11-14 123542" src="https://github.com/user-attachments/assets/48227be9-4200-4b98-89a5-b18db54ef52a" />
 <img width="400" height="500" alt="Screenshot 2025-11-14 123554" src="https://github.com/user-attachments/assets/12ef1309-553b-4566-966c-e11401b0ff86" />
 
 <img width="400" height="400" alt="Screenshot 2025-11-14 123607" src="https://github.com/user-attachments/assets/53cfd53c-3e4a-4feb-971d-88806f9eed24" />
