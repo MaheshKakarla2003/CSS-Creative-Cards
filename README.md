@@ -4,7 +4,7 @@ A small collection of simple front-end demos showing CSS  creative card hover ef
 
 ## Projects included
 
-### 2) Creative Cards (Hover Effects)
+### 1) Creative Cards (Hover Effects)
 Files
 - `cards/card-1/index.html` and `cards/card-1/style.css` (Creative Card 1)
 - `cards/card-2/index.html` and `cards/card-2/style.css` (Creative Card 2)
